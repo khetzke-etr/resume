@@ -1,6 +1,6 @@
 # Site settings
-title: "CV - K.Hetzke"
-description: "Publi-facing resume and developer portfolio for Karl Hetzke."
+title: "Karl Hetzke Resume"
+description: "Public-facing resume and developer portfolio for Karl Hetzke."
 
 # Build settings
 markdown: kramdown
@@ -45,7 +45,7 @@ resume_section_interests:       true
 # Resume social links
 # uncomment the options you wish to display, and add your own URL
 resume_social_links:
-  resume_github_url:            "https://github.com/kghetzke/resume-template"
+  resume_github_url:            "https://github.com/kghetzke"
   # resume_twitter_url:           "http://twitter.com/jglovier"
   # resume_dribbble_url:          "https://dribbble.com/jag"
   # resume_facebook_url:          "insert Facebook URL here"

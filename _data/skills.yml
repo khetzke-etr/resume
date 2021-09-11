@@ -1,12 +1,20 @@
 # Skills
-# Organizational leadership
-- skill: Organizational leadership
-  description: I have several years of experience leading organziations from community groups to business departments. From public speaking, to mentoring, to coordination of people and events, I can lead in any context.
+# Python
+- skill: Python
+  description: Two years of professional and academic experience writing Python scripts to do data analysis, publish data in web-based dashboards, and automate tasks like filling PowerPoint decks with survey data and comparing text of survey questionnaires. I'm also familiar with the machine-learning libraries sklearn and TensorFlow.
 
-# Communications strategy
-- skill: Communications strategy
-  description: Content and marketing strategy,
+# STATA
+- skill: STATA
+  description: Nearly four years of professional experience using STATA for analysis. I'm adept at writing custom functions and .do files to routinize certain forms of analysis common in survey research, such as stated vs derived analyses, max-diff scoring, and lca segmentation analysis.
 
-# Digital content development and creation
-- skill: Digital content development and creation
-  description: Copy writing, graphic design, web design, front-end web development, print design
+# Statistics and Econometrics
+- skill: Statistics and Econometrics
+  description: Master of Science degree in Economics, paired with nearly four years of professional experience coaching teams on how to explain statistical findings to clients. I have a deep intuition for hypothesis testing, and a vast knowledge of common tools and algorithms to build models with data.
+
+# Survey Research
+- skill: Survey Methodology
+  description: Nearly four years of professional experience consulting teams on survey best-practices; deep expertise in sample framing and weighting, and questionnaire design for reducing response bias. Extremely familiar with the <i>Decipher</i> platform for hosting survey research, and comfortable debugging XML scripts used for online surveys.
+
+# Additional Software
+- skill: Additional programming and software skills
+  description: While most of my professional life has been spent using STATA, Python, Excel, and tools specific to survey research, I've been exposed to many other programming languages and business intelligence tools, including R, SAS, SQL, Tableau, PowerBI, and SPSS, as well as deployment and hosting platforms like AWS, Snowflake, and Microsoft Azure. While not an expert in any of these tools, I am confident in my ability to learn them quickly and immediately start collaborating with teams using any of them. 
