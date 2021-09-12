@@ -12,5 +12,5 @@
 - project: Forecasting Laborforce Participation Rate
   role: Co-Author
   duration: April &mdash; May 2021
-  url: "/portfolio_files/hetzkebeban_finalpaper.docx"
+  # url: "/portfolio_files/hetzkebeban_finalpaper.docx"
   description: A final paper for our Macroeconomic Forecasting course at JHU, my co-author and I present three models for forecasting laborforce participation rate using the forecasting methods we covered in our semester.
