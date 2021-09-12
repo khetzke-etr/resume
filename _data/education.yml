@@ -2,13 +2,16 @@
 - degree: Master of Science, Applied Economics
   uni: Johns Hopkins University
   year: 2018 &mdash; 2021
-  awards:
-    - award: 3.8 GPA
-  summary: Coursework in econometrics, forecasting, and machine learning.
+  # awards:
+    # - award: 3.8 GPA
+  summary: 3.8 GPA; Coursework in econometrics, forecasting, and machine learning.
 
 - degree: Bachelor of Arts, Economics and Political Science
   uni: Union College, Schenectady NY
   year: 2011 &mdash; 2015
   awards: 
-   - award: 3.9 GPA
-  summary: Double major in social sciences with a minor in Classical Greek.
+   - award: Completed a senior research thesis analyzing provincial level voting data in Turkish parliamentary elections to evaluate competing claims about the sources of support for Islamist parties
+   - award: Member of Phi Beta Kappa honors society, as well as Omicron Delta Epsilon (economics), Pi Sigma Alpha (political science), and Eta Sigma Phi (classics)
+   - award: 2015 Celia Glaubach Prize "to the student who has demonstrated outstanding scholarship in the area of religious studies"
+   - award: 2015 Oswald Heck - Irwin Steingut Prize "to the student who has consistently done the best work in political science"
+  summary: 3.9 GPA, Double major in social sciences with a minor in Classical Greek.
