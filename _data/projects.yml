@@ -5,12 +5,12 @@
 - project: Dashboard for a Simulated Tracker Survey
   role: Primary developer
   duration: Sep 2021
-  # url: "#"
+  url: "https://tracker-survey-dashboard.herokuapp.com/"
   description: I preppared this simple dashboard to highlight my skills with STATA and Python, as well as familiarize myself with web-deployment processes using Heroku. 
 
 # Final Paper in Jupyter
-- project: Forecasting Laborforce Participation Rate
-  role: Co-Author
-  duration: April &mdash; May 2021
+# - project: Forecasting Laborforce Participation Rate
+#   role: Co-Author
+#   duration: April &mdash; May 2021
   # url: "/portfolio_files/hetzkebeban_finalpaper.docx"
-  description: A final paper for our Macroeconomic Forecasting course at JHU, my co-author and I present three models for forecasting laborforce participation rate using the forecasting methods we covered in our semester.
+  # description: A final paper for our Macroeconomic Forecasting course at JHU, my co-author and I present three models for forecasting laborforce participation rate using the forecasting methods we covered in our semester.
