@@ -3,14 +3,21 @@
 
 # Simulated Survey Dashboard
 - project: Dashboard for a Simulated Tracker Survey
-  role: Primary developer
+  role: Developer
   duration: Sep 2021
   url: "https://tracker-survey-dashboard.herokuapp.com/"
   description: I prepared this simple dashboard to highlight my skills with STATA and Python, as well as familiarize myself with web-deployment processes using Heroku. 
 
 # Final Paper in Jupyter
-# - project: Forecasting Laborforce Participation Rate
-#   role: Co-Author
-#   duration: April &mdash; May 2021
-  # url: "/portfolio_files/hetzkebeban_finalpaper.docx"
-  # description: A final paper for our Macroeconomic Forecasting course at JHU, my co-author and I present three models for forecasting laborforce participation rate using the forecasting methods we covered in our semester.
+- project: Forecasting Laborforce Participation Rate
+  role: Co-Author
+  duration: April &mdash; May 2021
+  url: "https://github.com/kghetzke/ForecastingLaborForceParticipation"
+  description: A final paper for our Macroeconomic Forecasting course at JHU, my co-author and I present three models for forecasting laborforce participation rate using the forecasting methods we covered in our semester.
+
+# Front end savings planner
+ - project: In-Progress web app to design a personal savings plan
+   role: Developer
+   duration: September 2021 &mdash; Present
+   url: "https://github.com/kghetzke/BudgetCalculator"
+   description: Web-app not yet launched, but git-repo is available to review. I've been working on developing my skills as a front-end developer, and since I'm saving for my own wedding next year, I wanted to build a budget tracking app that can optimizing saving/spending for certain milestones.
