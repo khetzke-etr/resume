@@ -23,7 +23,7 @@ resume_contact_address:         "28 Heron Way S, Fairport, NY"
 resume_header_contact_info:     "28 Heron Way S, Fairport NY • (585) 683-9014 • kghetzke@gmail.com"
 display_header_contact_info:    "false"
 
-resume_header_intro: "<p>Skilled developer and social-scientist. I love computational thinking and the process of writing a script to execute a solution. I'm excellent at translating business needs into technical objectives, and managing team resources to deliver solutions.</p>"
+resume_header_intro: "<p>Skilled developer and social-scientist. I love computational thinking and the process of writing a script to execute a solution. I'm excellent at translating business needs into technical objectives, and managing team resources to deliver solutions. [If viewing in PDF form, this resume is best viewed in a browser at kghetzke.github.io/resume] </p>"
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
