@@ -1,15 +1,14 @@
 # Jobs
 # Current Position
-- company: Edelman Data & Intelligence
-  position: Data Scientist
-  duration: Jan, 2022 &mdash; Present
-  summary: Functioning as both data-engineer and data-scientist, I contribute to our product development team by building data pipelines, exploring new learning algorithms, and coordinating workflows to integrate human-dependent data collection (surveys) with automated data pipelines.
-
+- company: ETR (Enterprise Technology Research)
+  position: Sr. Data Scientist
+  duration: May, 2022 &mdash; Present
+  summary: 
 # Last Edelman Position (Edelman DxI)
 - company: Edelman Data & Intelligence
-  position: Manager, Data Processing
-  duration: Feb, 2018 &mdash; Jan, 2022
-  summary: Managed a small team of Python and STATA users, serving a global network of client-facing teams conducting research for Fortune 100 clients. Our mandate is to "empower teams to make data insightful," and with that my responsibilities include	<ul class="resume-item-list"><li>Conducting advanced analytics, like consumer segmentations and key drivers analysis</li><li>Writing libraries in STATA and Python to handle survey-specific tasks, including automated deck creation</li><li>Coaching teams on how to correctly explain statistical findings to clients</li><li>Co-managing a relationship with a team of outsourced programmers and debugging programming errors in online surveys</li></ul>
+  position: Data Scientist / Manager, Data Processing
+  duration: Feb, 2018 &mdash; May, 2022
+  summary: As a Data Scienties, I functioned as both data-engineer and data-scientist, contributing to our product development team by building data pipelines, exploring new learning algorithms, and coordinating workflows to integrate human-dependent data collection (surveys) with automated data pipelines. As Manager of Data Processing, I managed a small team of Python and STATA users, serving a global network of client-facing teams conducting research for Fortune 100 clients. Our mandate is to "empower teams to make data insightful," and with that my responsibilities include	<ul class="resume-item-list"><li>Conducting advanced analytics, like consumer segmentations and key drivers analysis</li><li>Writing libraries in STATA and Python to handle survey-specific tasks, including automated deck creation</li><li>Coaching teams on how to correctly explain statistical findings to clients</li><li>Co-managing a relationship with a team of outsourced programmers and debugging programming errors in online surveys</li></ul>
 
 # Peace Corps
 - company: US Peace Corps Morocco
